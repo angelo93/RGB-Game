@@ -1,5 +1,5 @@
 # Color Guessing Game
-
+###Live Preview: https://angelo93.github.io/RGB-Game/
 #### Description:
 Fully responsive color guessing game web app where user has to guess color with given RGB values.
 
